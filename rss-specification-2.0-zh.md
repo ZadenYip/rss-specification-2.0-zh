@@ -1,4 +1,4 @@
-# RSS 2.0 Specification
+# RSS 2.0 规范
 
 ### RSS 2.0 规范
 
