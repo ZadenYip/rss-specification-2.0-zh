@@ -35,7 +35,7 @@
 <!-- #### What is RSS -->
 #### 什么是 RSS？
 
-<!--> RSS is a Web content syndication format. -->
+<!-- RSS is a Web content syndication format. -->
 RSS 是一种 Web 内容聚合（syndication）格式。
 
 <!-- Its name is an acronym for ***R**eally **S**imple **S**yndication.* -->
@@ -150,7 +150,7 @@ RSS 文档可以使用 [RSS Validator](https://www.rssboard.org/rss-validator/) 
 
 ---
 <!-- ##### `<image>` sub-element of `<channel>` -->
-##### `<channel>` 的 `<image>` 子元素**
+##### `<channel>` 的 `<image>` 子元素
 
 <!-- `<image>` is an optional sub-element of `<channel>`, which contains three required and three optional sub-elements. -->
 `<image>` 是 `<channel>` 的一个可选子元素，其中包含三个必需子元素和三个可选子元素。
