@@ -1,0 +1,11 @@
+[project]
+name = "rss-specification-2-0-zh"
+version = "0.1.0"
+description = "Fetch RSS 2.0 specification webpage and convert it to Markdown"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "httpx>=0.28.1",
+    "markdownify>=0.13.1",
+]
